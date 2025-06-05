@@ -4,7 +4,8 @@ I'm an Application Security Engineer focused on securing web applications, APIs,
 My goal is to make security a seamless part of the software development lifecycle — catching issues early, automating checks in CI/CD pipelines, and helping teams build secure applications at scale.
 
 
- 🏅 Certifications
+
+<h2>🏅 Certifications</h2>
 
 <a href="https://certs.ine.com/c33029bc-a71f-4a9d-808d-20c13cd32538#acc.bo7uT0xX" target="_blank">
   <img src="https://assets.ine.com/certifications/badges/eJPT.png" width="100" alt="My Cert"/>
