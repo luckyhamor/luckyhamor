@@ -1,6 +1,6 @@
 <h1>🧑‍💻 About Me</h1>
 
-<p>I'm an Application Security Engineer focused on securing web applications, APIs, and cloud-native systems. I specialize in penetration testing, vulnerability management, and secure code reviews.
+<p>I'm an Application Security Engineer focused on securing applications, APIs, and cloud-native systems. I specialize in penetration testing, vulnerability management, and secure code reviews.
 My goal is to make security a seamless part of the software development lifecycle — catching issues early, automating checks in CI/CD pipelines, and helping teams build secure applications at scale.</p>
 
 
