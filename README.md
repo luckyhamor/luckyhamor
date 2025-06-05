@@ -12,5 +12,5 @@ My goal is to make security a seamless part of the software development lifecycl
 </a>&nbsp;&nbsp;
 <a href="https://certs.ine.com/1dc0aa27-2b00-4376-91a3-b2dd323533f3#acc.QBYDSsH4" target="_blank">
   <img src="https://assets.ine.com/certifications/icca/ICCA-badge.png" width="50" alt="My Cert"/>
-</a>&nbsp;&nbsp;
+</a>
 
