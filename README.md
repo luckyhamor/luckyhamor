@@ -14,6 +14,6 @@ My goal is to make security a seamless part of the software development lifecycl
   <img src="https://assets.ine.com/certifications/icca/ICCA-badge.png" width="50" alt="My Cert"/>
 </a>
 <a href="https://assets.tryhackme.com/certification-certificate/6895e95285bd53a28f532b8d.pdf" target="_blank">
-  <img src="https://assets.tryhackme.com/certification-certificate/6895e95285bd53a28f532b8d.png" width="50" alt="My Cert"/>
+  <img src="https://tryhackme.com/static/media/pt1-certification-badge.e46363ab64183b5e3426.png" width="50" alt="My Cert"/>
 </a>
 
