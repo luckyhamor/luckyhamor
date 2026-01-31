@@ -15,5 +15,6 @@ My goal is to make security a seamless part of the software development lifecycl
 </a>&nbsp;
 <a href="https://assets.tryhackme.com/certification-certificate/6895e95285bd53a28f532b8d.pdf" target="_blank">
   <img src="https://images.credly.com/size/340x340/images/54525e33-85d1-405c-a68c-1e4dd9c7f57f/blob" width="60" alt="My Cert"/>
-</a>
-
+</a>&nbsp;
+<a href="https://www.credly.com/badges/aac68267-72d4-415e-940c-d85c7ac8be21/public_url" target="_blank">
+  <img src="https://images.credly.com/size/680x680/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png" width="60" alt="My Cert"/>
