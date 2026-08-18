@@ -21,6 +21,6 @@ My goal is to make security a seamless part of the software development lifecycl
 
 
 
-<h1>✍️ Writings</h1>
+<h1>Writings</h1>
 
 [Medium](https://medium.com/@luckyhamor31)
