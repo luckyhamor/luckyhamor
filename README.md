@@ -20,6 +20,5 @@ My goal is to make security a seamless part of the software development lifecycl
   <img src="https://images.credly.com/size/680x680/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png" width="60" alt="My Cert"/>
 
 
-### ✍️ Writing
 
-[![Medium](https://img.shields.io/badge/Medium-@luckyhamor31-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@luckyhamor31)
+<h1>🏅 Certifications</h1>
